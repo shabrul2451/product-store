@@ -1,6 +1,7 @@
 package database
 
 import (
+	"Product-Store/config"
 	"context"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
@@ -29,13 +30,13 @@ func GetDmManager() *DmManager {
 func (dm *DmManager) initConnection() {
 	ctx := context.Background()
 	dm.Ctx = ctx
-	clientOpts := options.Client().ApplyURI("mongodb://localhost:27017")
+	clientOpts := options.Client().ApplyURI(config.DatabaseConnectionString)
 	client, err := mongo.Connect(ctx, clientOpts)
 	if err != nil {
 		log.Println("[ERROR] DB Connection error:", err.Error())
 		return
 	}
-	db := client.Database("product_store")
+	db := client.Database(config.DatabaseName)
 	dm.Db = db
 	log.Println("[INFO] Initialized Singleton DB Manager")
 }
