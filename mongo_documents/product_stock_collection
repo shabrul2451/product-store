@@ -1,0 +1,211 @@
+[{
+  "_id": {
+    "$oid": "6557eb99ae9c7dba7587963c"
+  },
+  "id": "8e85a5d9-e876-43aa-af82-d214d46659b3",
+  "product_id": "eb6c68f9-ebef-4c84-b456-27b45b8125bd",
+  "stock_quantity": 10,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.833Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb9aae9c7dba7587963d"
+  },
+  "id": "e28736c8-9b4b-4c12-8843-57975479abff",
+  "product_id": "f91a215a-5880-41c3-8923-53dadcf0e809",
+  "stock_quantity": 10,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.860Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb9aae9c7dba7587963e"
+  },
+  "id": "26096985-2c9a-4121-af0c-a41007395702",
+  "product_id": "ffea683a-fa11-41b2-91a3-c792763968c5",
+  "stock_quantity": 10,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.865Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb9aae9c7dba7587963f"
+  },
+  "id": "be121941-75f9-4382-8d9a-f63c2986e343",
+  "product_id": "125bd9f7-d10d-462e-9256-930711b75f5d",
+  "stock_quantity": 10,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.867Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb9aae9c7dba75879640"
+  },
+  "id": "2e04fb60-43a2-44a7-94f0-25876e403774",
+  "product_id": "e8ddf138-547d-4da6-9be5-b342429be984",
+  "stock_quantity": 10,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.871Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb9aae9c7dba75879641"
+  },
+  "id": "8d54009d-e7de-4c86-9885-5ce54d36af68",
+  "product_id": "e116c015-bea8-4ae7-a4bd-d1afc2342938",
+  "stock_quantity": 10,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.874Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb9aae9c7dba75879642"
+  },
+  "id": "719a0518-7014-426d-9ca2-b85799cad26f",
+  "product_id": "e33f17c5-c158-4631-a975-bf920417140a",
+  "stock_quantity": 10,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.877Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb9aae9c7dba75879643"
+  },
+  "id": "31b0660c-2bdd-4710-956d-cb287ae86c9a",
+  "product_id": "83a762a7-8926-4715-b451-182024feeaf5",
+  "stock_quantity": 20,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.859Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb9aae9c7dba75879644"
+  },
+  "id": "b117ee52-9344-4e62-91d4-a61e37b5a460",
+  "product_id": "e9a53a45-6765-420f-84e6-e53bec77e8a8",
+  "stock_quantity": 10,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.882Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb9aae9c7dba75879645"
+  },
+  "id": "2626b5fb-b27b-405f-b01e-dca4a6b1fe2a",
+  "product_id": "f276236d-7a70-47e5-a9c9-150ca5caa897",
+  "stock_quantity": 10,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.869Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb9aae9c7dba75879646"
+  },
+  "id": "e1957af4-8691-41c5-8f44-4ce27e03740b",
+  "product_id": "cc529bc5-f220-4497-87d5-2e2076cd90d5",
+  "stock_quantity": 10,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.872Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb9aae9c7dba75879647"
+  },
+  "id": "1106349d-05e5-400e-831e-9506c44b7f26",
+  "product_id": "23807f45-5d0f-4eaf-8036-b1e6a15f67a7",
+  "stock_quantity": 10,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.876Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb9aae9c7dba75879648"
+  },
+  "id": "4bf7a260-b49a-475a-b2e2-bc08d235407e",
+  "product_id": "72946fd3-a2f8-4805-be39-9116d4bcf750",
+  "stock_quantity": 10,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.880Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb9aae9c7dba75879649"
+  },
+  "id": "afaf0e6a-a1bf-4ea5-b3bb-9a3152709fbc",
+  "product_id": "37291837-830f-4a54-a9d9-4940f7468507",
+  "stock_quantity": 10,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.881Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb9aae9c7dba7587964a"
+  },
+  "id": "aa3f5bf5-679b-4e06-b42a-2bd497e281af",
+  "product_id": "e6f71766-0674-4c19-8523-c4e9c46338bd",
+  "stock_quantity": 10,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.863Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb9aae9c7dba7587964b"
+  },
+  "id": "32c75f51-9ba4-4426-90d3-aa765676cccf",
+  "product_id": "b6d3e3ca-96f5-46c4-8071-fb08513df47a",
+  "stock_quantity": 10,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.866Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb9aae9c7dba7587964c"
+  },
+  "id": "78bc703d-2e12-4f92-8921-3f0c3d226c12",
+  "product_id": "d0db3377-8591-4a4f-810d-79f0a9d273dc",
+  "stock_quantity": 10,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.868Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb9aae9c7dba7587964d"
+  },
+  "id": "8668c5ae-8396-47c3-a7d0-bf34458239bf",
+  "product_id": "c160425a-fce2-44b2-8282-c29610859f2e",
+  "stock_quantity": 10,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.873Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb9aae9c7dba7587964e"
+  },
+  "id": "291351d1-5c2c-445b-b186-987a585e4dd1",
+  "product_id": "a521cf89-c4cf-42bd-a17f-e838bce21a40",
+  "stock_quantity": 10,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.878Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb9aae9c7dba7587964f"
+  },
+  "id": "36ccda52-e907-4abc-9469-a4a073bea498",
+  "product_id": "ae08fbd4-b4db-41d5-9fa7-0967d925c72c",
+  "stock_quantity": 10,
+  "updated_at": {
+    "$date": "2023-11-17T22:39:21.883Z"
+  }
+},{
+  "_id": {
+    "$oid": "655872ca99bec0545dd8545a"
+  },
+  "id": "626ec46d-a423-429a-b9db-73cd3117a462",
+  "product_id": "b41d02e9-169d-44fa-b9cc-da1d1f7fdd3f",
+  "stock_quantity": 0,
+  "updated_at": {
+    "$date": "2023-11-18T08:16:10.736Z"
+  }
+}]

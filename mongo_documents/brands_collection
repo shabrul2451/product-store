@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "6557eb72ae9c7dba75879544"
+  },
+  "id": "b8341371-4d70-42a0-a6e8-bfed2e0e5cc5",
+  "created_at": {
+    "$date": "2023-11-17T22:38:42.382Z"
+  },
+  "name": "apple",
+  "status_id": 1
+},{
+  "_id": {
+    "$oid": "6557eb72ae9c7dba75879546"
+  },
+  "id": "c2f86c20-4740-45d3-a2e7-73d12d3d33c7",
+  "created_at": {
+    "$date": "2023-11-17T22:38:42.382Z"
+  },
+  "name": "samsung",
+  "status_id": 1
+},{
+  "_id": {
+    "$oid": "6557eb72ae9c7dba75879548"
+  },
+  "id": "0becbcba-eaa5-41e6-8fcf-e5a0dc6ee471",
+  "created_at": {
+    "$date": "2023-11-17T22:38:42.382Z"
+  },
+  "name": "oneplus",
+  "status_id": 1
+},{
+  "_id": {
+    "$oid": "6557eb72ae9c7dba7587954a"
+  },
+  "id": "a3325b39-aaf7-45cf-b59a-82dc8fe28234",
+  "created_at": {
+    "$date": "2023-11-17T22:38:42.382Z"
+  },
+  "name": "oppo",
+  "status_id": 1
+},{
+  "_id": {
+    "$oid": "6557eb72ae9c7dba7587954c"
+  },
+  "id": "d31c1cf5-ea5f-437c-a946-4d7226a68d65",
+  "created_at": {
+    "$date": "2023-11-17T22:38:42.382Z"
+  },
+  "name": "vivo",
+  "status_id": 1
+},{
+  "_id": {
+    "$oid": "6557eb72ae9c7dba7587954e"
+  },
+  "id": "9a915704-7408-4673-81f6-a356ef1ec25b",
+  "created_at": {
+    "$date": "2023-11-17T22:38:42.382Z"
+  },
+  "name": "xiaomi",
+  "status_id": 1
+},{
+  "_id": {
+    "$oid": "6557eb72ae9c7dba75879550"
+  },
+  "id": "3ddc7a9a-5211-4d4d-893e-7f75b4f33ddf",
+  "created_at": {
+    "$date": "2023-11-17T22:38:42.382Z"
+  },
+  "name": "titan",
+  "status_id": 1
+},{
+  "_id": {
+    "$oid": "6557eb72ae9c7dba75879552"
+  },
+  "id": "b2fd9cdd-701a-44f0-8e88-e243bec32aa0",
+  "created_at": {
+    "$date": "2023-11-17T22:38:42.382Z"
+  },
+  "name": "casio",
+  "status_id": 1
+},{
+  "_id": {
+    "$oid": "6557eb72ae9c7dba75879554"
+  },
+  "id": "abbaf4fe-3a56-4a58-816a-3bcb9daedf15",
+  "created_at": {
+    "$date": "2023-11-17T22:38:42.382Z"
+  },
+  "name": "rolex",
+  "status_id": 1
+}]

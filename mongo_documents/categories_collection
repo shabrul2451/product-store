@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "6557eb80ae9c7dba75879560"
+  },
+  "id": "e1fb60c8-2e5f-4d26-bb90-adeb1c01634f",
+  "created_at": {
+    "$date": "2023-11-17T22:38:56.182Z"
+  },
+  "name": "mobile",
+  "parent_id": "",
+  "sequence": 1,
+  "status_id": 1
+},{
+  "_id": {
+    "$oid": "6557eb80ae9c7dba75879564"
+  },
+  "id": "6a233df1-b317-4be3-a2ae-8d02ea5205e3",
+  "created_at": {
+    "$date": "2023-11-17T22:38:56.182Z"
+  },
+  "name": "ios",
+  "parent_id": "e1fb60c8-2e5f-4d26-bb90-adeb1c01634f",
+  "sequence": 2,
+  "status_id": 1
+},{
+  "_id": {
+    "$oid": "6557eb80ae9c7dba75879568"
+  },
+  "id": "76d33749-54a6-4ae1-a6a7-182292e1efb4",
+  "created_at": {
+    "$date": "2023-11-17T22:38:56.182Z"
+  },
+  "name": "android",
+  "parent_id": "e1fb60c8-2e5f-4d26-bb90-adeb1c01634f",
+  "sequence": 3,
+  "status_id": 1
+},{
+  "_id": {
+    "$oid": "6557eb80ae9c7dba7587956c"
+  },
+  "id": "9ddf5ed3-13a6-4ff0-9db6-ac15067463a2",
+  "created_at": {
+    "$date": "2023-11-17T22:38:56.182Z"
+  },
+  "name": "watch",
+  "parent_id": "",
+  "sequence": 4,
+  "status_id": 1
+},{
+  "_id": {
+    "$oid": "6557eb80ae9c7dba75879570"
+  },
+  "id": "a064c14a-b497-4c53-820e-9f521c639fc8",
+  "created_at": {
+    "$date": "2023-11-17T22:38:56.182Z"
+  },
+  "name": "smart watch",
+  "parent_id": "9ddf5ed3-13a6-4ff0-9db6-ac15067463a2",
+  "sequence": 5,
+  "status_id": 1
+},{
+  "_id": {
+    "$oid": "6557eb80ae9c7dba75879574"
+  },
+  "id": "631c435b-5656-47f6-b920-e2df86b7f864",
+  "created_at": {
+    "$date": "2023-11-17T22:38:56.182Z"
+  },
+  "name": "analog watch",
+  "parent_id": "9ddf5ed3-13a6-4ff0-9db6-ac15067463a2",
+  "sequence": 6,
+  "status_id": 1
+},{
+  "_id": {
+    "$oid": "6557eb80ae9c7dba75879578"
+  },
+  "id": "eb7bf6b2-a6e1-46b9-b9fd-bfadc29d6c47",
+  "created_at": {
+    "$date": "2023-11-17T22:38:56.182Z"
+  },
+  "name": "digital watch",
+  "parent_id": "9ddf5ed3-13a6-4ff0-9db6-ac15067463a2",
+  "sequence": 7,
+  "status_id": 1
+},{
+  "_id": {
+    "$oid": "6557eb80ae9c7dba7587957c"
+  },
+  "id": "b99c1473-b449-4696-b645-1780ebcc3e54",
+  "created_at": {
+    "$date": "2023-11-17T22:38:56.182Z"
+  },
+  "name": "computer",
+  "parent_id": "",
+  "sequence": 8,
+  "status_id": 1
+},{
+  "_id": {
+    "$oid": "6557eb80ae9c7dba75879580"
+  },
+  "id": "88da97e0-c246-4e57-ab69-430c928b44a0",
+  "created_at": {
+    "$date": "2023-11-17T22:38:56.182Z"
+  },
+  "name": "desktop",
+  "parent_id": "b99c1473-b449-4696-b645-1780ebcc3e54",
+  "sequence": 9,
+  "status_id": 1
+},{
+  "_id": {
+    "$oid": "6557eb80ae9c7dba75879584"
+  },
+  "id": "005886a0-badf-4c03-bcc2-1aa910db9433",
+  "created_at": {
+    "$date": "2023-11-17T22:38:56.182Z"
+  },
+  "name": "laptop",
+  "parent_id": "b99c1473-b449-4696-b645-1780ebcc3e54",
+  "sequence": 10,
+  "status_id": 1
+}]

@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6557eb8b8551ce26df5fdfe0"
+  },
+  "id": "ea33b52f-abe9-4f06-b01b-ed72cdf0cee9",
+  "name": "a group",
+  "email": "a@gmail.com",
+  "phone": "01111111111",
+  "status_id": 1,
+  "is_verified_supplier": true,
+  "created_at": {
+    "$date": "2023-11-17T22:39:07.993Z"
+  }
+},{
+  "_id": {
+    "$oid": "6557eb8c8551ce26df5fdfe1"
+  },
+  "id": "241acb7f-9b2b-4e97-96a5-830e0b076d53",
+  "name": "b group",
+  "email": "b@gmail.com",
+  "phone": "02222222222",
+  "status_id": 1,
+  "is_verified_supplier": false,
+  "created_at": {
+    "$date": "2023-11-17T22:39:07.993Z"
+  }
+}]
