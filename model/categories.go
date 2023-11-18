@@ -10,9 +10,3 @@ type Category struct {
 	StatusId  int       `bson:"status_id" json:"status_id"`
 	CreatedAt time.Time `json:"created_at" bson:"created_at"`
 }
-
-type CategoryTree struct {
-	Id       string     `json:"id"`
-	Name     string     `json:"name"`
-	Children []Category `json:"children"`
-}
